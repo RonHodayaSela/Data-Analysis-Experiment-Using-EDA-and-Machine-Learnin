@@ -1,4 +1,5 @@
-Data Analysis Experiment Using EDA and Machine Learning
+**Data Analysis Experiment Using EDA and Machine Learning**
+*This project was carried out as part of academic studies
 Project Overview
 This project aims to perform exploratory data analysis (EDA) and apply various machine learning algorithms on a given dataset. The primary objective is to derive insights from the data, build predictive models, and evaluate their performance.
 
